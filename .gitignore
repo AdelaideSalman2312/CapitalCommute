@@ -1,22 +1,38 @@
-# Java / build output
+# Java
 *.class
+*.jar
+
+# Build output
 target/
 build/
 out/
 
-# IDEs
+# IntelliJ IDEA
 .idea/
 *.iml
+
+# VS Code
 .vscode/
 
-# Logs
-*.log
+# Eclipse
+.classpath
+.project
+.settings/
 
 # OS files
 .DS_Store
 Thumbs.db
 
+# Logs
+*.log
+
 # Environment / secrets
 .env
 .env.*
 !.env.example
+
+# Temporary files
+*.tmp
+*.swp
+# Local configuration and secrets
+commute/config/
