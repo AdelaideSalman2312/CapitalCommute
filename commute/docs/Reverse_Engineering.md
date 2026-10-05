@@ -1,4 +1,4 @@
-**SECTION A**
+# **SECTION A**
 
 # Context & Retrospective
 
