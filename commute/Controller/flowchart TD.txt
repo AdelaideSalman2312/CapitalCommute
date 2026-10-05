@@ -1,0 +1,15 @@
+flowchart TD
+    A[Capture Layer<br/>Orb hardware: iris + facial scan] --> B[Transformation Layer<br/>Raw scan → IrisCode template<br/>one-way derived representation]
+    B --> C[Identity Layer<br/>Unique global hash / World ID<br/>'proof of humanity']
+    C --> D[Custody Layer<br/>Fragmented entity chain]
+    D --> D1[Worldcoin Foundation<br/>Cayman Islands]
+    D --> D2[World Assets Ltd<br/>British Virgin Islands]
+    D --> D3[Tools for Humanity GmbH<br/>Germany]
+    D --> D4[Platinum De Plus<br/>Kenya — unregistered local agent]
+    D1 & D2 & D3 & D4 --> E[Storage Layer<br/>Contested location]
+    E --> E1["Claimed: South Africa (co-founder, 2023)"]
+    E --> E2["Claimed: US-based (Parliamentary testimony, 2023)"]
+    E --> E3["Confirmed: Germany (final court record + 2025 deletion)"]
+
+    style D fill:#fff3cd,stroke:#856404
+    style E fill:#f8d7da,stroke:#721c24
