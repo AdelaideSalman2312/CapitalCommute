@@ -1,6 +1,6 @@
 # Capital Commute
 
-**An Advance Taxi Booking and Management System**
+**An Advanced Taxi Booking and Management System**
 
 ## 1. Project Overview
 
